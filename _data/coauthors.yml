@@ -1,18 +1,82 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Hope":
+  - firstname: ["Sandra", "S."]
+    url: https://mmbio.byu.edu/directory/sandra-hope
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Grose":
+  - firstname: ["Julianne", "J.", "J. H.", "Julianne H."]
+    url: https://mmbio.byu.edu/directory/julianne-grose
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Breakwell":
+  - firstname: ["Donald", "D.", "D. P.", "Donald P."]
+    url: https://mmbio.byu.edu/directory/don-breakwell
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Olm":
+  - firstname: ["Matthew", "M.", "M. R.", "Matt", "Matthew R."]
+    url: https://mrolm.github.io/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Carter":
+  - firstname: ["Matthew", "M.", "M. M.", "Matt", "Matthew M."]
+    url: http://mattcarter.co/
+
+"Wastyk":
+  - firstname: ["Hannah", "H.", "H. C.", "Hannah C."]
+    url: https://hannahwastyk.co/
+
+"Yu":
+  - firstname: ["Brian", "F. Brian", "Feiqiao Brian", "B.", "F. B."]
+    url: http://brianyu.org/
+
+"Jain":
+  - firstname: ["Sunit", "S."]
+    url: https://www.sunitjain.com/
+
+"Jha":
+  - firstname: ["Aashish", "A. R.", "A.", "Aashish R."]
+    url: https://nyuad.nyu.edu/en/academics/divisions/science/faculty/aashish-jha.html
+
+"Hryckowian":
+  - firstname: ["Andrew", "A. J.", "A.", "Andrew J.", "Drew"]
+    url: https://hrycklab.medicine.wisc.edu/
+
+"Tropini":
+  - firstname: ["Carolina", "C."]
+    url: http://tropini.microbiology.ubc.ca/
+
+"Eren":
+  - firstname: ["A. Murat", "Meren", "A. M."]
+    url: https://merenlab.org/
+
+"Sonnenburg": 
+  - firstname: ["Justin Laine", "J. L.", "J.", "Justin L."]
+    url: http://sonnenburglab.stanford.edu/
+
+  - firstname: ["Erica", "Erica D.", "E. D.", "Erica D."]
+    url: http://sonnenburglab.stanford.edu/
+
+"Huang":
+  - firstname: ["Kerwyn Casey", "K. C.", "K. Casey", "Kerwyn C."]
+    url: http://whatislife.stanford.edu/
+
+"Fischbach":
+  - firstname: ["Michael", "M. A.", "M.", "Michael A."]
+    url: http://fischbachgroup.org/
+
+"Navarre":
+  - firstname: ["William", "W.", "W. W.", "William W."]
+    url: https://navarrelab.ca/
+
+"Ng":
+  - firstname: ["Katharine", "K. M.", "K.", "Katharine M."]
+    url: http://katecholamine.org/
+
+"Dodd":
+  - firstname: ["Dylan", "D."]
+    url: https://www.doddlab.org/
+
+"Bhatt":
+  - firstname: ["Ami", "A.", "A. S.", "Ami S."]
+    url: https://www.bhattlab.com/
+
+"Guthrie":
+  - firstname: ["Leah", "L."]
+    url: https://ltcguthrie.github.io/

@@ -1,0 +1,390 @@
+---
+---
+
+% 35679413 
+@Article{pmid35679413,
+   Author="Olm, M. R.  and Dahan, D.  and Carter, M. M.  and Merrill, B. D.  and Yu, F. B.  and Jain, S.  and Meng, X.  and Tripathi, S.  and Wastyk, H.  and Neff, N.  and Holmes, S.  and Sonnenburg, E. D.  and Jha, A. R.  and Sonnenburg, J. L. ",
+   Title="{{R}obust variation in infant gut microbiome assembly across a spectrum of lifestyles}",
+   Journal="Science",
+   Year="2022",
+   Volume="376",
+   Number="6598",
+   Pages="1220--1223",
+   Month="06",
+   Abstract={and gene cassettes involved in human milk utilization. Strains within lifestyle-associated taxonomic groups are shared between mother-infant dyads, consistent with early life inheritance of lifestyle-shaped microbiomes. The population-specific differences in infant microbiome composition and function underscore the importance of studying microbiomes from people outside of wealthy, industrialized nations.},
+   Note={[DOI:\href{https://dx.doi.org/10.1126/science.abj2972}{10.1126/science.abj2972}] [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/35679413}{35679413}] }
+}
+
+% 35266814 
+@Article{pmid35266814,
+   Author="Wong, E. O.  and Brownlie, E. J. E.  and Ng, K. M.  and Kathirgamanathan, S.  and Yu, F. B.  and Merrill, B. D.  and Huang, K. C.  and Martin, A.  and Tropini, C.  and Navarre, W. W. ",
+   Title="{{T}he {C}{I}{A}{M}{I}{B}: a {L}arge and {M}etabolically {D}iverse {C}ollection of {I}nflammation-{A}ssociated {B}acteria from the {M}urine {G}ut}",
+   Journal="mBio",
+   Year="2022",
+   Volume="13",
+   Number="2",
+   Pages="e0294921",
+   Month="04",
+   Abstract={Attempts to explore the role of the microbiota in animal physiology have resulted in large-scale efforts to cultivate the thousands of microbes that are associated with humans. In contrast, relatively few lab mouse-associated bacteria have been isolated, despite the fact that the overwhelming number of studies on the microbiota use laboratory mice that are colonized with microbes that are quite distinct from those in humans. Here, we report the results of a large-scale isolation of bacteria from the intestines of laboratory mice either prone to or suffering from gut inflammation. This collection comprises dozens of novel isolates, many of which represent the only cultured representatives of their genus or species. We report their basic growth characteristics and genomes and are making them widely available to the greater research community.},
+   Note={[PubMed Central:\href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9040815}{PMC9040815}] [DOI:\href{https://dx.doi.org/10.1128/mbio.02949-21}{10.1128/mbio.02949-21}] [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/24270786}{24270786}] }
+}
+
+% 35172163 
+@Article{pmid35172163,
+   Author="Lynch, J. B.  and Bennett, B. D.  and Merrill, B. D.  and Ruby, E. G.  and Hryckowian, A. J. ",
+   Title="{{I}ndependent host- and bacterium-based determinants protect a model symbiosis from phage predation}",
+   Journal="Cell Rep",
+   Year="2022",
+   Volume="38",
+   Number="7",
+   Pages="110376",
+   Month="02",
+   Abstract={Bacteriophages (phages) are diverse and abundant constituents of microbial communities worldwide, capable of modulating bacterial populations in diverse ways. Here, we describe the phage HNL01, which infects the marine bacterium Vibrio fischeri. We use culture-based approaches to demonstrate that mutations in the exopolysaccharide locus of V. fischeri render this bacterium resistant to infection by HNL01, highlighting the extracellular matrix as a key determinant of HNL01 infection. Additionally, using the natural symbiosis between V. fischeri and the squid Euprymna scolopes, we show that, during colonization, V. fischeri is protected from phages present in the ambient seawater. Taken together, these findings shed light on independent yet synergistic host- and bacterium-based strategies for resisting symbiosis-disrupting phage predation, and we present important implications for understanding these strategies in the context of diverse host-associated microbial ecosystems.},
+   Note={[PubMed Central:\href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8983117}{PMC8983117}] [DOI:\href{https://dx.doi.org/10.1016/j.celrep.2022.110376}{10.1016/j.celrep.2022.110376}] [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/32576653}{32576653}] }
+}
+
+% 34262212 
+@Article{pmid34262212,
+   Author="Han, S.  and Van Treuren, W.  and Fischer, C. R.  and Merrill, B. D.  and DeFelice, B. C.  and Sanchez, J. M.  and Higginbottom, S. K.  and Guthrie, L.  and Fall, L. A.  and Dodd, D.  and Fischbach, M. A.  and Sonnenburg, J. L. ",
+   Title="{{A} metabolomics pipeline for the mechanistic interrogation of the gut microbiome}",
+   Journal="Nature",
+   Year="2021",
+   Volume="595",
+   Number="7867",
+   Pages="415--420",
+   Month="07",
+   Abstract={, yet progress in elucidating this chemical interplay has been hindered by limited tools calibrated to detect the products of anaerobic biochemistry in the gut. Here we construct a microbiome-focused, integrated mass-spectrometry pipeline to accelerate the identification of microbiota-dependent metabolites in diverse sample types. We report the metabolic profiles of 178 gut microorganism strains using our library of 833 metabolites. Using this metabolomics resource, we establish deviations in the relationships between phylogeny and metabolism, use machine learning to discover a previously undescribed type of metabolism in Bacteroides, and reveal candidate biochemical pathways using comparative genomics. Microbiota-dependent metabolites can be detected in diverse biological fluids from gnotobiotic and conventionally colonized mice and traced back to the corresponding metabolomic profiles of cultured bacteria. Collectively, our microbiome-focused metabolomics pipeline and interactive metabolomics profile explorer are a powerful tool for characterizing microorganisms and interactions between microorganisms and their host.},
+   Note={[PubMed Central:\href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8939302}{PMC8939302}] [DOI:\href{https://dx.doi.org/10.1038/s41586-021-03707-9}{10.1038/s41586-021-03707-9}] [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/29324762}{29324762}] }
+}
+
+% 34256014 
+@Article{pmid34256014,
+   Author="Wastyk, H. C.  and Fragiadakis, G. K.  and Perelman, D.  and Dahan, D.  and Merrill, B. D.  and Yu, F. B.  and Topf, M.  and Gonzalez, C. G.  and Van Treuren, W.  and Han, S.  and Robinson, J. L.  and Elias, J. E.  and Sonnenburg, E. D.  and Gardner, C. D.  and Sonnenburg, J. L. ",
+   Title="{{G}ut-microbiota-targeted diets modulate human immune status}",
+   Journal="Cell",
+   Year="2021",
+   Volume="184",
+   Number="16",
+   Pages="4137--4153",
+   Month="08",
+   Abstract={Diet modulates the gut microbiome, which in turn can impact the immune system. Here, we determined how two microbiota-targeted dietary interventions, plant-based fiber and fermented foods, influence the human microbiome and immune system in healthy adults. Using a 17-week randomized, prospective study (n = 18/arm) combined with -omics measurements of microbiome and host, including extensive immune profiling, we found diet-specific effects. The high-fiber diet increased microbiome-encoded glycan-degrading carbohydrate active enzymes (CAZymes) despite stable microbial community diversity. Although cytokine response score (primary outcome) was unchanged, three distinct immunological trajectories in high-fiber consumers corresponded to baseline microbiota diversity. Alternatively, the high-fermented-food diet steadily increased microbiota diversity and decreased inflammatory markers. The data highlight how coupling dietary interventions to deep and longitudinal immune and microbiome profiling can provide individualized and population-wide insight. Fermented foods may be valuable in countering the decreased microbiome diversity and increased inflammation pervasive in industrialized society.},
+   Note={[PubMed Central:\href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9020749}{PMC9020749}] [DOI:\href{https://dx.doi.org/10.1016/j.cell.2021.06.019}{10.1016/j.cell.2021.06.019}] [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/30388453}{30388453}] }
+}
+
+% 33349678 
+@Article{pmid33349678,
+   Author="Eren, A. M.  and Kiefl, E.  and Shaiber, A.  and Veseli, I.  and Miller, S. E.  and Schechter, M. S.  and Fink, I.  and Pan, J. N.  and Yousef, M.  and Fogarty, E. C.  and Trigodet, F.  and Watson, A. R.  and Esen, Ö. C.  and Moore, R. M.  and Clayssen, Q.  and Lee, M. D.  and Kivenson, V.  and Graham, E. D.  and Merrill, B. D.  and Karkman, A.  and Blankenberg, D.  and Eppley, J. M.  and Sjödin, A.  and Scott, J. J.  and Vázquez-Campos, X.  and McKay, L. J.  and McDaniel, E. A.  and Stevens, S. L. R.  and Anderson, R. E.  and Fuessel, J.  and Fernandez-Guerra, A.  and Maignien, L.  and Delmont, T. O.  and Willis, A. D. ",
+   Title="{{C}ommunity-led, integrated, reproducible multi-omics with anvi'o}",
+   Journal="Nat Microbiol",
+   Year="2021",
+   Volume="6",
+   Number="1",
+   Pages="3--6",
+   Month="01",
+   Note={[PubMed Central:\href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8116326}{PMC8116326}] [DOI:\href{https://dx.doi.org/10.1093/bioinformatics/bts480}{10.1093/bioinformatics/bts480}] [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/33349678}{33349678}] }
+}
+
+% 33031771 
+@Article{pmid33031771,
+   Author="Ng, K. M.  and Aranda-Díaz, A.  and Tropini, C.  and Frankel, M. R.  and Van Treuren, W.  and O'Loughlin, C. T.  and Merrill, B. D.  and Yu, F. B.  and Pruss, K. M.  and Oliveira, R. A.  and Higginbottom, S. K.  and Neff, N. F.  and Fischbach, M. A.  and Xavier, K. B.  and Sonnenburg, J. L.  and Huang, K. C. ",
+   Title="{{R}ecovery of the {G}ut {M}icrobiota after {A}ntibiotics {D}epends on {H}ost {D}iet, {C}ommunity {C}ontext, and {E}nvironmental {R}eservoirs}",
+   Journal="Cell Host Microbe",
+   Year="2020",
+   Volume="28",
+   Number="4",
+   Pages="628",
+   Month="Oct",
+   Note={[DOI:\href{https://dx.doi.org/10.1016/j.chom.2020.09.001}{10.1016/j.chom.2020.09.001}] [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/33031771}{33031771}] }
+}
+
+% 32652063 
+@Article{pmid32652063,
+   Author="Hryckowian, A. J.  and Merrill, B. D.  and Porter, N. T.  and Van Treuren, W.  and Nelson, E. J.  and Garlena, R. A.  and Russell, D. A.  and Martens, E. C.  and Sonnenburg, J. L. ",
+   Title="{{B}acteroides thetaiotaomicron-{I}nfecting {B}acteriophage {I}solates {I}nform {S}equence-{B}ased {H}ost {R}ange {P}redictions}",
+   Journal="Cell Host Microbe",
+   Year="2020",
+   Volume="28",
+   Number="3",
+   Pages="371--379",
+   Month="09",
+   Abstract={Our emerging view of the gut microbiome largely focuses on bacteria, while less is known about other microbial components, such as bacteriophages (phages). Though phages are abundant in the gut, very few phages have been isolated from this ecosystem. Here, we report the genomes of 27 phages from the United States and Bangladesh that infect the prevalent human gut bacterium Bacteroides thetaiotaomicron. These phages are mostly distinct from previously sequenced phages with the exception of two, which are crAss-like phages. We compare these isolates to existing human gut metagenomes, revealing similarities to previously inferred phages and additional unexplored phage diversity. Finally, we use host tropisms of these phages to identify alleles of phage structural genes associated with infectivity. This work provides a detailed view of the gut's "viral dark matter" and a framework for future efforts to further integrate isolation- and sequencing-focused efforts to understand gut-resident phages.},
+   Note={[PubMed Central:\href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8045012}{PMC8045012}] [DOI:\href{https://dx.doi.org/10.1016/j.chom.2020.06.011}{10.1016/j.chom.2020.06.011}] [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/28655159}{28655159}] }
+}
+
+% 32601452 
+@Article{pmid32601452,
+   Author="Porter, N. T.  and Hryckowian, A. J.  and Merrill, B. D.  and Fuentes, J. J.  and Gardner, J. O.  and Glowacki, R. W. P.  and Singh, S.  and Crawford, R. D.  and Snitkin, E. S.  and Sonnenburg, J. L.  and Martens, E. C. ",
+   Title="{{P}hase-variable capsular polysaccharides and lipoproteins modify bacteriophage susceptibility in {B}acteroides thetaiotaomicron}",
+   Journal="Nat Microbiol",
+   Year="2020",
+   Volume="5",
+   Number="9",
+   Pages="1170--1181",
+   Month="09",
+   Abstract={A variety of cell surface structures dictate interactions between bacteria and their environment, including their viruses (bacteriophages). Members of the human gut Bacteroidetes characteristically produce several phase-variable capsular polysaccharides (CPSs), but their contributions to bacteriophage interactions are unknown. To begin to understand how CPSs have an impact on Bacteroides-phage interactions, we isolated 71 Bacteroides thetaiotaomicron-infecting bacteriophages from two locations in the United States. Using B. thetaiotaomicron strains that express defined subsets of CPSs, we show that CPSs dictate host tropism for these phages and that expression of non-permissive CPS variants is selected under phage predation, enabling survival. In the absence of CPSs, B. thetaiotaomicron escapes bacteriophage predation by altering expression of eight distinct phase-variable lipoproteins. When constitutively expressed, one of these lipoproteins promotes resistance to multiple bacteriophages. Our results reveal important roles for Bacteroides CPSs and other cell surface structures that allow these bacteria to persist under bacteriophage predation, and hold important implications for using bacteriophages therapeutically to target gut symbionts.},
+   Note={[PubMed Central:\href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7482406}{PMC7482406}] [DOI:\href{https://dx.doi.org/10.4161/bact.1.1.13980}{10.4161/bact.1.1.13980}] [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/21687534}{21687534}] }
+}
+
+% 31726029 
+@Article{pmid31726029,
+   Author="Ng, K. M.  and Aranda-Díaz, A.  and Tropini, C.  and Frankel, M. R.  and Van Treuren, W.  and O'Loughlin, C. T.  and Merrill, B. D.  and Yu, F. B.  and Pruss, K. M.  and Oliveira, R. A.  and Higginbottom, S. K.  and Neff, N. F.  and Fischbach, M. A.  and Xavier, K. B.  and Sonnenburg, J. L.  and Huang, K. C. ",
+   Title="{{R}ecovery of the {G}ut {M}icrobiota after {A}ntibiotics {D}epends on {H}ost {D}iet, {C}ommunity {C}ontext, and {E}nvironmental {R}eservoirs}",
+   Journal="Cell Host Microbe",
+   Year="2019",
+   Volume="26",
+   Number="5",
+   Pages="650--665",
+   Month="11",
+   Abstract={Antibiotics alter microbiota composition and increase infection susceptibility. However, the generalizable effects of antibiotics on and the contribution of environmental variables to gut commensals remain unclear. To address this, we tracked microbiota dynamics with high temporal and taxonomic resolution during antibiotic treatment in a controlled murine system by isolating variables such as diet, treatment history, and housing co-inhabitants. Human microbiotas were remarkably resilient and recovered during antibiotic treatment, with transient dominance of resistant Bacteroides and taxa-asymmetric diversity reduction. In certain cases, in vitro sensitivities were not predictive of in vivo responses, underscoring the significance of host and community context. A fiber-deficient diet exacerbated microbiota collapse and delayed recovery. Species replacement through cross housing after ciprofloxacin treatment established resilience to a second treatment. Single housing drastically disrupted recovery, highlighting the importance of environmental reservoirs. Our findings highlight deterministic microbiota adaptations to perturbations and the translational potential for modulating diet, sanitation, and microbiota composition during antibiotics.},
+   Note={[PubMed Central:\href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8276089}{PMC8276089}] [DOI:\href{https://dx.doi.org/10.1016/j.chom.2019.10.011}{10.1016/j.chom.2019.10.011}] [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/23995682}{23995682}] }
+}
+
+% 30533693 
+@Article{pmid30533693,
+   Author="Merrill, B. D.  and Fajardo, C. P.  and Hilton, J. A.  and Payne, A. M.  and Ward, A. T.  and Walker, J. K.  and Dhalai, A.  and Imahara, C.  and Mangohig, J.  and Monk, J.  and Pascacio, C.  and Rai, P.  and Salisbury, A.  and Velez, K.  and Bloomfield, T. J.  and Buhler, B.  and Duncan, S. G.  and Fuhriman, D. A.  and George, J.  and Graves, K.  and Heaton, K.  and Hill, H. L.  and Kim, M.  and Knabe, B. K.  and Ririe, D. B.  and Rogers, S. L.  and Stamereilers, C.  and Stephenson, M. B.  and Usher, B. K.  and Ward, C. S.  and Withers, J. M.  and Wright, C. K.  and Breakwell, D. P.  and Grose, J. H.  and Hope, S.  and Tsourkas, P. K. ",
+   Title="{{C}omplete {G}enome {S}equences of 18 {P}aenibacillus larvae {P}hages from the {W}estern {U}nited {S}tates}",
+   Journal="Microbiol Resour Announc",
+   Year="2018",
+   Volume="7",
+   Number="13",
+   Month="Oct",
+   Abstract={We present here the complete genomes of 18 phages that infect Paenibacillus larvae, the causative agent of American foulbrood in honeybees. The phages were isolated between 2014 and 2016 as part of an undergraduate phage discovery course at Brigham Young University. The phages were isolated primarily from bee debris and lysogens.},
+   Note={[PubMed Central:\href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6256562}{PMC6256562}] [DOI:\href{https://dx.doi.org/10.1128/MRA.00966-18}{10.1128/MRA.00966-18}] [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/26089405}{26089405}] }
+}
+
+% 30518109 
+@Article{pmid30518109,
+   Author="Brady, T. S.  and Fajardo, C. P.  and Merrill, B. D.  and Hilton, J. A.  and Graves, K. A.  and Eggett, D. L.  and Hope, S. ",
+   Title="{{B}ystander {P}hage {T}herapy: {I}nducing {H}ost-{A}ssociated {B}acteria to {P}roduce {A}ntimicrobial {T}oxins against the {P}athogen {U}sing {P}hages}",
+   Journal="Antibiotics (Basel)",
+   Year="2018",
+   Volume="7",
+   Number="4",
+   Month="Dec",
+   Abstract={. Bystander phage therapy may provide a new avenue for antibacterial production and treatment of disease.},
+   Note={[PubMed Central:\href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6315864}{PMC6315864}] [DOI:\href{https://dx.doi.org/10.3390/antibiotics7040105}{10.3390/antibiotics7040105}] [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/30406049}{30406049}] }
+}
+
+% 30217838 
+@Article{pmid30217838,
+   Author="Berg, J. A.  and Merrill, B. D.  and Breakwell, D. P.  and Hope, S.  and Grose, J. H. ",
+   Title="{{A} {P}{C}{R}-{B}ased {M}ethod for {D}istinguishing between {T}wo {C}ommon {B}eehive {B}acteria, {P}aenibacillus larvae and {B}revibacillus laterosporus}",
+   Journal="Appl Environ Microbiol",
+   Year="2018",
+   Volume="84",
+   Number="22",
+   Month="11",
+   Abstract={, and other disease-relevant bacteria commonly found in beehives.},
+   Note={[PubMed Central:\href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6210111}{PMC6210111}] [DOI:\href{https://dx.doi.org/10.1128/AEM.01886-18}{10.1128/AEM.01886-18}] [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/4147722}{4147722}] }
+}
+
+% 29906449 
+@Article{pmid29906449,
+   Author="Tropini, C.  and Moss, E. L.  and Merrill, B. D.  and Ng, K. M.  and Higginbottom, S. K.  and Casavant, E. P.  and Gonzalez, C. G.  and Fremin, B.  and Bouley, D. M.  and Elias, J. E.  and Bhatt, A. S.  and Huang, K. C.  and Sonnenburg, J. L. ",
+   Title="{{T}ransient {O}smotic {P}erturbation {C}auses {L}ong-{T}erm {A}lteration to the {G}ut {M}icrobiota}",
+   Journal="Cell",
+   Year="2018",
+   Volume="173",
+   Number="7",
+   Pages="1742--1754",
+   Month="06",
+   Abstract={Osmotic diarrhea is a prevalent condition in humans caused by food intolerance, malabsorption, and widespread laxative use. Here, we assess the resilience of the gut ecosystem to osmotic perturbation at multiple length and timescales using mice as model hosts. Osmotic stress caused reproducible extinction of highly abundant taxa and expansion of less prevalent members in human and mouse microbiotas. Quantitative imaging revealed decimation of the mucus barrier during osmotic perturbation, followed by recovery. The immune system exhibited temporary changes in cytokine levels and a lasting IgG response against commensal bacteria. Increased osmolality prevented growth of commensal strains in vitro, revealing one mechanism contributing to extinction. Environmental availability of microbiota members mitigated extinction events, demonstrating how species reintroduction can affect community resilience. Our findings (1) demonstrate that even mild osmotic diarrhea can cause lasting changes to the microbiota and host and (2) lay the foundation for interventions that increase system-wide resilience.},
+   Note={[PubMed Central:\href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6061967}{PMC6061967}] [DOI:\href{https://dx.doi.org/10.1016/j.cell.2018.05.008}{10.1016/j.cell.2018.05.008}] [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/26762459}{26762459}] }
+}
+
+% 29903825 
+@Article{pmid29903825,
+   Author="Walker, J. K.  and Merrill, B. D.  and Berg, J. A.  and Dhalai, A.  and Dingman, D. W.  and Fajardo, C. P.  and Graves, K.  and Hill, H. L.  and Hilton, J. A.  and Imahara, C.  and Knabe, B. K.  and Mangohig, J.  and Monk, J.  and Mun, H.  and Payne, A. M.  and Salisbury, A.  and Stamereilers, C.  and Velez, K.  and Ward, A. T.  and Breakwell, D. P.  and Grose, J. H.  and Hope, S.  and Tsourkas, P. K. ",
+   Title="{{C}omplete {G}enome {S}equences of {P}aenibacillus larvae {P}hages {B}{N}12, {D}ragolir, {K}iel007, {L}eyra, {L}ikha, {P}agassa, {P}{B}{L}1c, and {T}adhana}",
+   Journal="Genome Announc",
+   Year="2018",
+   Volume="6",
+   Number="24",
+   Month="Jun",
+   Abstract={lysogen, while the remaining phages were isolated in 2014 from bee debris, honeycomb, and lysogens from three states in the USA.},
+   Note={[PubMed Central:\href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6003738}{PMC6003738}] [DOI:\href{https://dx.doi.org/10.1128/genomeA.01602-17}{10.1128/genomeA.01602-17}] [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/26089405}{26089405}] }
+}
+
+% 29168502 
+@Article{pmid29168502,
+   Author="Dodd, D.  and Spitzer, M. H.  and Van Treuren, W.  and Merrill, B. D.  and Hryckowian, A. J.  and Higginbottom, S. K.  and Le, A.  and Cowan, T. M.  and Nolan, G. P.  and Fischbach, M. A.  and Sonnenburg, J. L. ",
+   Title="{{A} gut bacterial pathway metabolizes aromatic amino acids into nine circulating metabolites}",
+   Journal="Nature",
+   Year="2017",
+   Volume="551",
+   Number="7682",
+   Pages="648--652",
+   Month="11",
+   Abstract={The human gut microbiota produces dozens of metabolites that accumulate in the bloodstream, where they can have systemic effects on the host. Although these small molecules commonly reach concentrations similar to those achieved by pharmaceutical agents, remarkably little is known about the microbial metabolic pathways that produce them. Here we use a combination of genetics and metabolic profiling to characterize a pathway from the gut symbiont Clostridium sporogenes that generates aromatic amino acid metabolites. Our results reveal that this pathway produces twelve compounds, nine of which are known to accumulate in host serum. All three aromatic amino acids (tryptophan, phenylalanine and tyrosine) serve as substrates for the pathway, and it involves branching and alternative reductases for specific intermediates. By genetically manipulating C. sporogenes, we modulate serum levels of these metabolites in gnotobiotic mice, and show that in turn this affects intestinal permeability and systemic immunity. This work has the potential to provide the basis of a systematic effort to engineer the molecular output of the gut bacterial community.},
+   Note={[PubMed Central:\href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5850949}{PMC5850949}] [DOI:\href{https://dx.doi.org/10.1038/nature24661}{10.1038/nature24661}] [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/7353645}{7353645}] }
+}
+
+% 29146842 
+@Article{pmid29146842,
+   Author="Esplin, I. N. D.  and Berg, J. A.  and Sharma, R.  and Allen, R. C.  and Arens, D. K.  and Ashcroft, C. R.  and Bairett, S. R.  and Beatty, N. J.  and Bickmore, M.  and Bloomfield, T. J.  and Brady, T. S.  and Bybee, R. N.  and Carter, J. L.  and Choi, M. C.  and Duncan, S.  and Fajardo, C. P.  and Foy, B. B.  and Fuhriman, D. A.  and Gibby, P. D.  and Grossarth, S. E.  and Harbaugh, K.  and Harris, N.  and Hilton, J. A.  and Hurst, E.  and Hyde, J. R.  and Ingersoll, K.  and Jacobson, C. M.  and James, B. D.  and Jarvis, T. M.  and Jaen-Anieves, D.  and Jensen, G. L.  and Knabe, B. K.  and Kruger, J. L.  and Merrill, B. D.  and Pape, J. A.  and Payne Anderson, A. M.  and Payne, D. E.  and Peck, M. D.  and Pollock, S. V.  and Putnam, M. J.  and Ransom, E. K.  and Ririe, D. B.  and Robinson, D. M.  and Rogers, S. L.  and Russell, K. A.  and Schoenhals, J. E.  and Shurtleff, C. A.  and Simister, A. R.  and Smith, H. G.  and Stephenson, M. B.  and Staley, L. A.  and Stettler, J. M.  and Stratton, M. L.  and Tateoka, O. B.  and Tatlow, P. J.  and Taylor, A. S.  and Thompson, S. E.  and Townsend, M. H.  and Thurgood, T. L.  and Usher, B. K.  and Whitley, K. V.  and Ward, A. T.  and Ward, M. E. H.  and Webb, C. J.  and Wienclaw, T. M.  and Williamson, T. L.  and Wells, M. J.  and Wright, C. K.  and Breakwell, D. P.  and Hope, S.  and Grose, J. H. ",
+   Title="{{B}acteriophages}",
+   Journal="Genome Announc",
+   Year="2017",
+   Volume="5",
+   Number="46",
+   Month="Nov",
+   Abstract={bacteriophages.},
+   Note={[PubMed Central:\href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5690319}{PMC5690319}] [DOI:\href{https://dx.doi.org/10.1128/genomeA.00931-17}{10.1128/genomeA.00931-17}] [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/23995391}{23995391}] }
+}
+
+% 28917651 
+@Article{pmid28917651,
+   Author="Brady, T. S.  and Merrill, B. D.  and Hilton, J. A.  and Payne, A. M.  and Stephenson, M. B.  and Hope, S. ",
+   Title="{{B}acteriophages as an alternative to conventional antibiotic use for the prevention or treatment of {P}aenibacillus larvae in honeybee hives}",
+   Journal="J Invertebr Pathol",
+   Year="2017",
+   Volume="150",
+   Pages="94--100",
+   Month="11",
+   Abstract={American Foulbrood (AFB) is an infectious disease caused by the bacteria, Paenibacillus larvae. P. larvae phages were isolated and tested to determine each phages' host range amongst 59 field isolate strains of P. larvae. Three phages were selected to create a phage cocktail for the treatment of AFB infections according to the combined phages' ability to lyse all tested strains of bacteria. Studies were performed to demonstrate the safety and efficacy of the phage cocktail treatment as a replacement for traditional antibiotics for the prevention of AFB and the treatment of active infections. Safety verification studies confirmed that the phage cocktail did not adversely affect the rate of bee death even when administered as an overdose. In a comparative study of healthy hives, traditional prophylactic antibiotic treatment experienced a 38±0.7% decrease in overall hive health, which was statistically lower than hive health observed in control hives. Hives treated with phage cocktail decreased 19±0.8%, which was not statistically different than control hives, which decreased by 10±1.0%. In a study of beehives at-risk for a natural infection, 100±0.5% of phage-treated hives were protected from AFB infection, while 80±0.5% of untreated controls became infected. AFB infected hives began with an average Hitchcock score of 2.25 out of 4 and 100±0.5% of the hives recovered completely within two weeks of treatment with phage cocktail. While the n numbers for the latter two studies are small, the results for both the phage protection rate and the phage cure rate were statistically significant (α=0.05). These studies demonstrate the powerful potential of using a phage cocktail against AFB and establish phage therapy as a feasible treatment.},
+   Note={[DOI:\href{https://dx.doi.org/10.1016/j.jip.2017.09.010}{10.1016/j.jip.2017.09.010}] [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/28917651}{28917651}] }
+}
+
+% 28746868 
+@Article{pmid28746868,
+   Author="Lumb, J. H.  and Li, Q.  and Popov, L. M.  and Ding, S.  and Keith, M. T.  and Merrill, B. D.  and Greenberg, H. B.  and Li, J. B.  and Carette, J. E. ",
+   Title="{{D}{D}{X}6 {R}epresses {A}berrant {A}ctivation of {I}nterferon-{S}timulated {G}enes}",
+   Journal="Cell Rep",
+   Year="2017",
+   Volume="20",
+   Number="4",
+   Pages="819--831",
+   Month="07",
+   Abstract={The innate immune system tightly regulates activation of interferon-stimulated genes (ISGs) to avoid inappropriate expression. Pathological ISG activation resulting from aberrant nucleic acid metabolism has been implicated in autoimmune disease; however, the mechanisms governing ISG suppression are unknown. Through a genome-wide genetic screen, we identified DEAD-box helicase 6 (DDX6) as a suppressor of ISGs. Genetic ablation of DDX6 induced global upregulation of ISGs and other immune genes. ISG upregulation proved cell intrinsic, imposing an antiviral state and making cells refractory to divergent families of RNA viruses. Epistatic analysis revealed that ISG activation could not be overcome by deletion of canonical RNA sensors. However, DDX6 deficiency was suppressed by disrupting LSM1, a core component of mRNA degradation machinery, suggesting that dysregulation of RNA processing underlies ISG activation in the DDX6 mutant. DDX6 is distinct among DExD/H helicases that regulate the antiviral response in its singular ability to negatively regulate immunity.},
+   Note={[PubMed Central:\href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5551412}{PMC5551412}] [DOI:\href{https://dx.doi.org/10.1016/j.celrep.2017.06.085}{10.1016/j.celrep.2017.06.085}] [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/19560422}{19560422}] }
+}
+
+% 27561606 
+@Article{pmid27561606,
+   Author="Merrill, B. D.  and Ward, A. T.  and Grose, J. H.  and Hope, S. ",
+   Title="{{S}oftware-based analysis of bacteriophage genomes, physical ends, and packaging strategies}",
+   Journal="BMC Genomics",
+   Year="2016",
+   Volume="17",
+   Pages="679",
+   Month="08",
+   Abstract={Phage genome analysis is a rapidly growing field. Recurrent obstacles include software access and usability, as well as genome sequences that vary in sequence orientation and/or start position. Here we describe modifications to the phage comparative genomics software program, Phamerator, provide public access to the code, and include instructions for creating custom Phamerator databases. We further report genomic analysis techniques to determine phage packaging strategies and identification of the physical ends of phage genomes.\\ The original Phamerator code can be successfully modified and custom databases can be generated using the instructions we provide. Results of genome map comparisons within a custom database reveal obstacles in performing the comparisons if a published genome has an incorrect complementarity or an incorrect location of the first base of the genome, which are common issues in GenBank-downloaded sequence files. To address these issues, we review phage packaging strategies and provide results that demonstrate identification of the genome start location and orientation using raw sequencing data and software programs such as PAUSE and Consed to establish the location of the physical ends of the genome. These results include determination of exact direct terminal repeats (DTRs) or cohesive ends, or whether phages may use a headful packaging strategy. Phylogenetic analysis using ClustalO and phamily circles in Phamerator demonstrate that the large terminase gene can be used to identify the phage packaging strategy and thereby aide in identifying the physical ends of the genome.\\ Using available online code, the Phamerator program can be customized and utilized to generate databases with individually selected genomes. These databases can then provide fruitful information in the comparative analysis of phages. Researchers can identify packaging strategies and physical ends of phage genomes using raw data from high-throughput sequencing in conjunction with phylogenetic analyses of large terminase proteins and the use of custom Phamerator databases. We promote publication of phage genomes in an orientation consistent with the physical structure of the phage chromosome and provide guidance for determining this structure.},
+   Note={[PubMed Central:\href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5000459}{PMC5000459}] [DOI:\href{https://dx.doi.org/10.1186/s12864-016-3018-2}{10.1186/s12864-016-3018-2}] [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/24496795}{24496795}] }
+}
+
+% 27304881 
+@Article{pmid27304881,
+   Author="Berg, J. A.  and Merrill, B. D.  and Crockett, J. T.  and Esplin, K. P.  and Evans, M. R.  and Heaton, K. E.  and Hilton, J. A.  and Hyde, J. R.  and McBride, M. S.  and Schouten, J. T.  and Simister, A. R.  and Thurgood, T. L.  and Ward, A. T.  and Breakwell, D. P.  and Hope, S.  and Grose, J. H. ",
+   Title="{{C}haracterization of {F}ive {N}ovel {B}revibacillus {B}acteriophages and {G}enomic {C}omparison of {B}revibacillus {P}hages}",
+   Journal="PLoS One",
+   Year="2016",
+   Volume="11",
+   Number="6",
+   Pages="e0156838",
+   Abstract={Brevibacillus laterosporus is a spore-forming bacterium that causes a secondary infection in beehives following European Foulbrood disease. To better understand the contributions of Brevibacillus bacteriophages to the evolution of their hosts, five novel phages (Jenst, Osiris, Powder, SecTim467, and Sundance) were isolated and characterized. When compared with the five Brevibacillus phages currently in NCBI, these phages were assigned to clusters based on whole genome and proteome synteny. Powder and Osiris, both myoviruses, were assigned to the previously described Jimmer-like cluster. SecTim467 and Jenst, both siphoviruses, formed a novel phage cluster. Sundance, a siphovirus, was assigned as a singleton phage along with the previously isolated singleton, Emery. In addition to characterizing the basic relationships between these phages, several genomic features were observed. A motif repeated throughout phages Jenst and SecTim467 was frequently upstream of genes predicted to function in DNA replication, nucleotide metabolism, and transcription, suggesting transcriptional co-regulation. In addition, paralogous gene pairs that encode a putative transcriptional regulator were identified in four Brevibacillus phages. These paralogs likely evolved to bind different DNA sequences due to variation at amino acid residues predicted to bind specific nucleotides. Finally, a putative transposable element was identified in SecTim467 and Sundance that carries genes homologous to those found in Brevibacillus chromosomes. Remnants of this transposable element were also identified in phage Jenst. These discoveries provide a greater understanding of the diversity of phages, their behavior, and their evolutionary relationships to one another and to their host. In addition, they provide a foundation with which further Brevibacillus phages can be compared.},
+   Note={[PubMed Central:\href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4909266}{PMC4909266}] [DOI:\href{https://dx.doi.org/10.1371/journal.pone.0156838}{10.1371/journal.pone.0156838}] [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/9647857}{9647857}] }
+}
+
+% 26494658 
+@Article{pmid26494658,
+   Author="Merrill, B. D.  and Berg, J. A.  and Graves, K. A.  and Ward, A. T.  and Hilton, J. A.  and Wake, B. N.  and Grose, J. H.  and Breakwell, D. P.  and Burnett, S. H. ",
+   Title="{{G}enome {S}equences of {F}ive {A}dditional {B}revibacillus laterosporus {B}acteriophages}",
+   Journal="Genome Announc",
+   Year="2015",
+   Volume="3",
+   Number="5",
+   Month="Oct",
+   Abstract={Brevibacillus laterosporus has been isolated from many different environments, including beehives, and produces compounds that are toxic to many organisms. Five B. laterosporus phages have been isolated previously. Here, we announce five additional phages that infect this bacterium, including the first B. laterosporus siphoviruses to be discovered.},
+   Note={[PubMed Central:\href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4616168}{PMC4616168}] [DOI:\href{https://dx.doi.org/10.1128/genomeA.01146-15}{10.1128/genomeA.01146-15}] [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/9647857}{9647857}] }
+}
+
+% 26430035 
+@Article{pmid26430035,
+   Author="Sheflo, M. A.  and Gardner, A. V.  and Merrill, B. D.  and Fisher, J. N.  and Lunt, B. L.  and Breakwell, D. P.  and Grose, J. H.  and Burnett, S. H. ",
+   Title="{{C}orrection for {S}heflo et al., {C}omplete {G}enome {S}equences of {F}ive {B}revibacillus laterosporus {B}acteriophages}",
+   Journal="Genome Announc",
+   Year="2015",
+   Volume="3",
+   Number="5",
+   Month="10",
+   Note={[PubMed Central:\href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4591307}{PMC4591307}] [DOI:\href{https://dx.doi.org/10.1128/genomeA.01113-15}{10.1128/genomeA.01113-15}] [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/26430035}{26430035}] }
+}
+
+% 26250905 
+@Article{pmid26250905,
+   Author="Asare, P. T.  and Jeong, T. Y.  and Ryu, S.  and Klumpp, J.  and Loessner, M. J.  and Merrill, B. D.  and Kim, K. P. ",
+   Title="{{P}utative type 1 thymidylate synthase and dihydrofolate reductase as signature genes of a novel {B}astille-like group of phages in the subfamily {S}pounavirinae}",
+   Journal="BMC Genomics",
+   Year="2015",
+   Volume="16",
+   Pages="582",
+   Month="Aug",
+   Abstract={Spounavirinae viruses have received an increasing interest as tools for the control of harmful bacteria due to their relatively broad host range and strictly virulent phenotype.\\ In this study, we collected and analyzed the complete genome sequences of 61 published phages, either ICTV-classified or candidate members of the Spounavirinae subfamily of the Myoviridae. A set of comparative analyses identified a distinct, recently proposed Bastille-like phage group within the Spounavirinae. More importantly, type 1 thymidylate synthase (TS1) and dihydrofolate reductase (DHFR) genes were shown to be unique for the members of the proposed Bastille-like phage group, and are suitable as molecular markers. We also show that the members of this group encode beta-lactamase and/or sporulation-related SpoIIIE homologs, possibly questioning their suitability as biocontrol agents.\\ We confirm the creation of a new genus--the "Bastille-like group"--in Spounavirinae, and propose that the presence of TS1- and DHFR-encoding genes could serve as signatures for the new Bastille-like group. In addition, the presence of metallo-beta-lactamase and/or SpoIIIE homologs in all members of Bastille-like group phages makes questionable their suitability for use in biocontrol.},
+   Note={[PubMed Central:\href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4528723}{PMC4528723}] [DOI:\href{https://dx.doi.org/10.1186/s12864-015-1757-0}{10.1186/s12864-015-1757-0}] [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/24264384}{24264384}] }
+}
+
+% 25174730 
+@Article{pmid25174730,
+   Author="Merrill, B. D.  and Grose, J. H.  and Breakwell, D. P.  and Burnett, S. H. ",
+   Title="{{C}haracterization of {P}aenibacillus larvae bacteriophages and their genomic relationships to firmicute bacteriophages}",
+   Journal="BMC Genomics",
+   Year="2014",
+   Volume="15",
+   Pages="745",
+   Month="Aug",
+   Abstract={Paenibacillus larvae is a Firmicute bacterium that causes American Foulbrood, a lethal disease in honeybees and is a major source of global agricultural losses. Although P. larvae phages were isolated prior to 2013, no full genome sequences of P. larvae bacteriophages were published or analyzed. This report includes an in-depth analysis of the structure, genomes, and relatedness of P. larvae myoviruses Abouo, Davis, Emery, Jimmer1, Jimmer2, and siphovirus phiIBB_Pl23 to each other and to other known phages.\\ P. larvae phages Abouo, Davies, Emery, Jimmer1, and Jimmer2 are myoviruses with ~50 kbp genomes. The six P. larvae phages form three distinct groups by dotplot analysis. An annotated linear genome map of these six phages displays important identifiable genes and demonstrates the relationship between phages. Sixty phage assembly or structural protein genes and 133 regulatory or other non-structural protein genes were identifiable among the six P. larvae phages. Jimmer1, Jimmer2, and Davies formed stable lysogens resistant to superinfection by genetically similar phages. The correlation between tape measure protein gene length and phage tail length allowed identification of co-isolated phages Emery and Abouo in electron micrographs. A Phamerator database was assembled with the P. larvae phage genomes and 107 genomes of Firmicute-infecting phages, including 71 Bacillus phages. Phamerator identified conserved domains in 1,501 of 6,181 phamilies (only 24.3%) encoded by genes in the database and revealed that P. larvae phage genomes shared at least one phamily with 72 of the 107 other phages. The phamily relationship of large terminase proteins was used to indicate putative DNA packaging strategies. Analyses from CoreGenes, Phamerator, and electron micrograph measurements indicated Jimmer1, Jimmer2, Abouo and Davies were related to phages phiC2, EJ-1, KC5a, and AQ113, which are small-genome myoviruses that infect Streptococcus, Lactobacillus, and Clostridium, respectively.\\ This paper represents the first comparison of phage genomes in the Paenibacillus genus and the first organization of P. larvae phages based on sequence and structure. This analysis provides an important contribution to the field of bacteriophage genomics by serving as a foundation on which to build an understanding of the natural predators of P. larvae.},
+   Note={[PubMed Central:\href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4168068}{PMC4168068}] [DOI:\href{https://dx.doi.org/10.1186/1471-2164-15-745}{10.1186/1471-2164-15-745}] [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/5435792}{5435792}] }
+}
+
+% 25100842 
+@Article{pmid25100842,
+   Author="Grose, J. H.  and Belnap, D. M.  and Jensen, J. D.  and Mathis, A. D.  and Prince, J. T.  and Merrill, B. D.  and Burnett, S. H.  and Breakwell, D. P. ",
+   Title="{{T}he genomes, proteomes, and structures of three novel phages that infect the {B}acillus cereus group and carry putative virulence factors}",
+   Journal="J Virol",
+   Year="2014",
+   Volume="88",
+   Number="20",
+   Pages="11846--11860",
+   Month="Oct",
+   Abstract={This article reports the results of studying three novel bacteriophages, JL, Shanette, and Basilisk, which infect the pathogen Bacillus cereus and carry genes that may contribute to its pathogenesis. We analyzed host range and superinfection ability, mapped their genomes, and characterized phage structure by mass spectrometry and transmission electron microscopy (TEM). The JL and Shanette genomes were 96% similar and contained 217 open reading frames (ORFs) and 220 ORFs, respectively, while Basilisk has an unrelated genome containing 138 ORFs. Mass spectrometry revealed 23 phage particle proteins for JL and 15 for Basilisk, while only 11 and 4, respectively, were predicted to be present by sequence analysis. Structural protein homology to well-characterized phages suggested that JL and Shanette were members of the family Myoviridae, which was confirmed by TEM. The third phage, Basilisk, was similar only to uncharacterized phages and is an unrelated siphovirus. Cryogenic electron microscopy of this novel phage revealed a T=9 icosahedral capsid structure with the major capsid protein (MCP) likely having the same fold as bacteriophage HK97 MCP despite the lack of sequence similarity. Several putative virulence factors were encoded by these phage genomes, including TerC and TerD involved in tellurium resistance. Host range analysis of all three phages supports genetic transfer of such factors within the B. cereus group, including B. cereus, B. anthracis, and B. thuringiensis. This study provides a basis for understanding these three phages and other related phages as well as their contributions to the pathogenicity of B. cereus group bacteria. Importance: The Bacillus cereus group of bacteria contains several human and plant pathogens, including B. cereus, B. anthracis, and B. thuringiensis. Phages are intimately linked to the evolution of their bacterial hosts and often provide virulence factors, making the study of B. cereus phages important to understanding the evolution of pathogenic strains. Herein we provide the results of detailed study of three novel B. cereus phages, two highly related myoviruses (JL and Shanette) and an unrelated siphovirus (Basilisk). The detailed characterization of host range and superinfection, together with results of genomic, proteomic, and structural analyses, reveal several putative virulence factors as well as the ability of these phages to infect different pathogenic species.},
+   Note={[PubMed Central:\href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4178739}{PMC4178739}] [DOI:\href{https://dx.doi.org/10.1128/JVI.01364-14}{10.1128/JVI.01364-14}] [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/24309730}{24309730}] }
+}
+
+% 24459255 
+@Article{pmid24459255,
+   Author="Grose, J. H.  and Jensen, J. D.  and Merrill, B. D.  and Fisher, J. N.  and Burnett, S. H.  and Breakwell, D. P. ",
+   Title="{{G}enome {S}equences of {T}hree {N}ovel {B}acillus cereus {B}acteriophages}",
+   Journal="Genome Announc",
+   Year="2014",
+   Volume="2",
+   Number="1",
+   Month="Jan",
+   Abstract={The Bacillus cereus group is an assemblage of highly related firmicute bacteria that cause a variety of diseases in animals, including insects and humans. We announce three high-quality, complete genome sequences of bacteriophages we isolated from soil samples taken at the bases of fruit trees in Utah County, Utah. While two of the phages (Shanette and JL) are highly related myoviruses, the bacteriophage Basilisk is a siphovirus.},
+   Note={[PubMed Central:\href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3900887}{PMC3900887}] [DOI:\href{https://dx.doi.org/10.1128/genomeA.01118-13}{10.1128/genomeA.01118-13}] [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/18422617}{18422617}] }
+}
+
+% 24285667 
+@Article{pmid24285667,
+   Author="Breakwell, D. P.  and Barrus, E. Z.  and Benedict, A. B.  and Brighton, A. K.  and Fisher, J. N.  and Gardner, A. V.  and Kartchner, B. J.  and Ladle, K. C.  and Lunt, B. L.  and Merrill, B. D.  and Morrell, J. D.  and Burnett, S. H.  and Grose, J. H. ",
+   Title="{{G}enome sequences of five b1 subcluster mycobacteriophages}",
+   Journal="Genome Announc",
+   Year="2013",
+   Volume="1",
+   Number="6",
+   Month="Nov",
+   Abstract={Mycobacteriophages infect members of the Mycobacterium genus in the phylum Actinobacteria and exhibit remarkable diversity. Genome analysis groups the thousands of known mycobacteriophages into clusters, of which the B1 subcluster is currently the third most populous. We report the complete genome sequences of five additional members of the B1 subcluster.},
+   Note={[PubMed Central:\href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3869329}{PMC3869329}] [DOI:\href{https://dx.doi.org/10.1128/genomeA.00968-13}{10.1128/genomeA.00968-13}] [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/9461475}{9461475}] }
+}
+
+% 24233582 
+@Article{pmid24233582,
+   Author="Sheflo, M. A.  and Gardner, A. V.  and Merrill, B. D.  and Fisher, J. N.  and Lunt, B. L.  and Breakwell, D. P.  and Grose, J. H.  and Burnett, S. H. ",
+   Title="{{C}omplete {G}enome {S}equences of {F}ive {P}aenibacillus larvae {B}acteriophages}",
+   Journal="Genome Announc",
+   Year="2013",
+   Volume="1",
+   Number="6",
+   Month="Nov",
+   Abstract={Paenibacillus larvae is a pathogen of honeybees that causes American foulbrood (AFB). We isolated bacteriophages from soil containing bee debris collected near beehives in Utah. We announce five high-quality complete genome sequences, which represent the first completed genome sequences submitted to GenBank for any P. larvae bacteriophage.},
+   Note={[PubMed Central:\href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3828306}{PMC3828306}] [DOI:\href{https://dx.doi.org/10.1128/genomeA.00668-13}{10.1128/genomeA.00668-13}] [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/5435792}{5435792}] }
+}
