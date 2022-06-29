@@ -17,9 +17,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a PhD candidate in the [Sonnenburg Lab](http://sonnenburglab.stanford.edu/) in the [Department of Microbiology and Immunology](https://microimmuno.stanford.edu/) at [Stanford University](https://www.stanford.edu), [School of Medicine](https://med.stanford.edu/)).
+I am a PhD candidate in the [Sonnenburg Lab](http://sonnenburglab.stanford.edu/) in the [Department of Microbiology and Immunology](https://microimmuno.stanford.edu/) at [Stanford University](https://www.stanford.edu), [School of Medicine](https://med.stanford.edu/).
 
-My research focuses primarily on characterizing (1) the gut microbiome of under-represented human populations using terabase-scale metagenome sequencing and (2) the role of bacteriophages in the human gut microbiome.  
+My research focuses primarily on (1) characterizing the gut microbiome of under-represented human populations using terabase-scale metagenome sequencing, (2) exploring the role of bacteriophages in the human gut microbiome, and (3) learning whether "but it feeds your good bacteria!" is sufficient motivation to get my kids to eat their broccoli. 
 
 Previously, I attended [Brigham Young University](https://www.byu.edu/) where I graduated from the [Department of Microbiology and Molecular Biology](https://mmbio.byu.edu/) (M.S and B.S). I worked on phage therapy for agricultural pathogens, from discovery and characterization of novel phages through treatment.
 
