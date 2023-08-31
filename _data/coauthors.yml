@@ -23,7 +23,7 @@
     url: https://hannahwastyk.co/
 
 "Yu":
-  - firstname: ["Brian", "F. Brian", "Feiqiao Brian", "B.", "F. B."]
+  - firstname: ["Brian", "F. Brian", "Feiqiao Brian", "B.", "F. B.", "Feiqiao B."]
     url: http://brianyu.org/
 
 "Jain":
@@ -80,3 +80,7 @@
 "Guthrie":
   - firstname: ["Leah", "L."]
     url: https://ltcguthrie.github.io/
+
+"Han":
+  - firstname: ["Shuo", "S."]
+    url: https://thehanlab.com/
