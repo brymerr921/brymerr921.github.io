@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-07-29 12:00:00-0800
 inline: true
 ---
 
-A simple inline announcement.
+I successfully defended my PhD thesis! :sparkles: Huge thanks to my amazing committee: Justin Sonnenburg, Ami Bhatt, Michael Fischbach, KC Huang, David Schneider, and Robert Daines (chair).
